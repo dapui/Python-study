@@ -41,7 +41,7 @@ for key in word_dict: # 딕셔너리의 키(단어)를 순회하며
 h_fp.close() # 파일 닫기
 
 # ======================================================
-# 데이터 분석 프로그램
+# 데이터 분석 프로그램 개선
 #'hamlet_by_Shakespeare.txt' 파일에 포함된 단어 중 출현한 횟수가 100 이상되는 단어와 출력 횟수를 출력하는 프로그램을 작성하시오
 h_fp = open("Hamlet_by_Shakespeare.txt", "r") # 'Hamlet_by_Shakespeare.txt' 파일을 읽기 모드(r)로 열기
 
